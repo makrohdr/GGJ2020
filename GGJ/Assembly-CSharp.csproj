@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Enemy\SemiBoss.cs" />
     <Compile Include="Assets\Scripts\Healt.cs" />
     <Compile Include="Assets\Scripts\Hola.cs" />
+    <Compile Include="Assets\Scripts\Load Scene.cs" />
     <Compile Include="Assets\Scripts\player move.cs" />
     <Compile Include="Assets\Scripts\Player\player.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
